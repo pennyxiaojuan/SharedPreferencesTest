@@ -7,6 +7,11 @@
     <Button
         android:id="@+id/save_data"
         android:layout_width="match_parent"
-        android:text="save data"
-        />
+        android:layout_height="wrap_content"
+        android:text="save data" />
+    <Button
+        android:id="@+id/restore_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="restore data"/>
 </LinearLayout>
